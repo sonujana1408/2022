@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 hs/ms.jkkjnmnm
 klqwjlkjlk
 s
 
+=======
+hs/ms.jbkkjs
+hello body
+you are awousome so knind of you
+>>>>>>> a095a95ffa3ced0bffd59175f1b7df856c231130
